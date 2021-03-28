@@ -10,23 +10,23 @@
         "ecommerce": { "slug": "ecommerce", "name": "eCommerce", "id": 22, "count": 1 }
     },
     "posts": {
-        "outfit": {
+        "starter-blogger": {
             "id": 206,
-            "title": "Outfit",
-            "slug": "outfit",
+            "title": "Starter Blogger",
+            "slug": "starter-blogger",
             "desc": "",
             "excerpt": "",
-            "thumbnail_url": "https://customifysites.com/wp-content/uploads/outfit_screenshot.png",
+            "thumbnail_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starter-blogger.jpg",
             "manual_plugins": { "": null },
-            "demo_url": "https://customifysites.com/outfit/",
+            "demo_url": "https://demo.fancywp.com/blogger/",
             "pro": "",
             "resources": {
                 "xml_url": null,
                 "xml_placeholder_url": null,
                 "json_url": null,
-                "elementor_xml_url": "https://customifysites.com/wp-content/uploads/outfit-elementor-201810220933.xml",
-                "elementor_xml_placeholder_url": "https://customifysites.com/wp-content/uploads/outfit-elementor-201810221017-placeholder.xml",
-                "elementor_json_url": "https://customifysites.com/wp-content/uploads/outfit-elementor-201810290505.json",
+                "elementor_xml_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282251.xml",
+                "elementor_xml_placeholder_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282251.xml",
+                "elementor_json_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282252.json",
                 "beaver_builder_xm_url": null,
                 "beaver_builder_xml_url": null,
                 "beaver_builder_xml_placeholder_url": null,
