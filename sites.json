@@ -1,5 +1,5 @@
 {
-    "total": "5",
+    "total": "1",
     "max_num_pages": 1,
     "paged": 0,
     "categories": { "elementor": { "slug": "elementor", "name": "Elementor", "id": 2, "count": 5 }, "beaver-builder": { "slug": "beaver-builder", "name": "Beaver Builder", "id": 5, "count": 3 } },
@@ -18,7 +18,7 @@
             "excerpt": "",
             "thumbnail_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starter-blogger.jpg",
             "manual_plugins": { "": null },
-            "demo_url": "https://wpcrafty.com/starter-business/",
+            "demo_url": "https://demo.fancywp.com/blogger/",
             "pro": "",
             "resources": {
                 "xml_url": null,
@@ -26,9 +26,13 @@
                 "json_url": null,
                 "elementor_xml_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282251.xml",
                 "elementor_json_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282252.json",
+                "beaver_builder_xm_url": null,
+                "beaver_builder_xml_url": null,
+                "beaver_builder_xml_placeholder_url": null,
+                "beaver_builder_json_url": null
             },
-            "tags": [],
-            "categories": []
+            "categories": ["elementor"],
+            "tags": ["business", "corporate", "startup"]
         },
 
     }
