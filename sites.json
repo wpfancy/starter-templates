@@ -25,7 +25,6 @@
                 "xml_placeholder_url": null,
                 "json_url": null,
                 "elementor_xml_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282251.xml",
-                "elementor_xml_placeholder_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282251.xml",
                 "elementor_json_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282252.json",
                 "beaver_builder_xm_url": null,
                 "beaver_builder_xml_url": null,
@@ -33,7 +32,35 @@
                 "beaver_builder_json_url": null
             },
             "tags": [],
-            "categories": []
+            "categories": ["elementor"]
         }
-    }
+    },
+        "posts": {
+            "starter-blogger": {
+                "id": 206,
+                "title": "Life Coach",
+                "slug": "life-coach",
+                "desc": "",
+                "excerpt": "",
+                "thumbnail_url": "https://demo.fancywp.com/life-coach/wp-content/uploads/2021/04/life-coach.jpg",
+                "manual_plugins": {
+                    "": null
+                },
+                "demo_url": "https://demo.fancywp.com/life-coach/",
+                "pro": "",
+                "resources": {
+                    "xml_url": null,
+                    "xml_placeholder_url": null,
+                    "json_url": null,
+                    "elementor_xml_url": "https://demo.fancywp.com/life-coach/wp-content/uploads/2021/04/lifecoach.WordPress.xml",
+                    "elementor_json_url": "https://demo.fancywp.com/life-coach/wp-content/uploads/2021/04/lifecoach-elementor.json",
+                    "beaver_builder_xm_url": null,
+                    "beaver_builder_xml_url": null,
+                    "beaver_builder_xml_placeholder_url": null,
+                    "beaver_builder_json_url": null
+                },
+                "tags": [],
+                "categories": ["elementor"]
+            }
+        }
 }
