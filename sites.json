@@ -11,7 +11,7 @@
     },
     "posts": {
         "starter-blogger": {
-            "id": 206,
+            "id": 201,
             "title": "Starter Blogger",
             "slug": "starter-blogger",
             "desc": "",
@@ -36,8 +36,8 @@
             "categories": []
         },
         "posts": {
-            "starter-blogger": {
-                "id": 206,
+            "life-coach": {
+                "id": 202,
                 "title": "Life Coach",
                 "slug": "life-coach",
                 "desc": "",
