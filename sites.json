@@ -1,12 +1,12 @@
 {
-    "total": "5",
-    "max_num_pages": 1,
-    "paged": 0,
+    "total": "2",
+    "max_num_pages": 3,
+    "paged": 2,
     "categories": { "elementor": { "slug": "elementor", "name": "Elementor", "id": 2, "count": 5 }, "beaver-builder": { "slug": "beaver-builder", "name": "Beaver Builder", "id": 5, "count": 3 } },
     "tags": {
         "nonprofit": { "slug": "nonprofit", "name": "Nonprofit", "id": 3, "count": 1 },
         "business": { "slug": "business", "name": "Business", "id": 4, "count": 3 },
-        "portfolio": { "slug": "portfolio", "name": "Portfolio", "id": 9, "count": 1 },
+        "blog": { "slug": "blog", "name": "Blog", "id": 9, "count": 1 },
         "ecommerce": { "slug": "ecommerce", "name": "eCommerce", "id": 22, "count": 1 }
     },
     "posts": {
@@ -14,53 +14,45 @@
             "id": 201,
             "title": "Starter Blogger",
             "slug": "starter-blogger",
-            "desc": "",
+            "desc": "Build your blogging site with Starter Blogger Templates",
             "excerpt": "",
             "thumbnail_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starter-blogger.jpg",
             "manual_plugins": { "": null },
             "demo_url": "https://demo.fancywp.com/blogger/",
             "pro": "",
             "resources": {
-                "xml_url": null,
-                "xml_placeholder_url": null,
-                "json_url": null,
+                "xml_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282251.xml",
+                "json_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282252.json",
                 "elementor_xml_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282251.xml",
-                "elementor_xml_placeholder_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282251.xml",
                 "elementor_json_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282252.json",
-                "beaver_builder_xm_url": null,
                 "beaver_builder_xml_url": null,
-                "beaver_builder_xml_placeholder_url": null,
+                "beaver_builder_json_url": null
+            },
+            "tags": ["elementor"],
+            "categories": ["starter", "blog"]
+        },
+        "life-coach": {
+            "id": 202,
+            "title": "Life Coach",
+            "slug": "life-coach",
+            "desc": "",
+            "excerpt": "",
+            "thumbnail_url": "https://demo.fancywp.com/life-coach/wp-content/uploads/2021/04/life-coach.jpg",
+            "manual_plugins": {
+                "": null
+            },
+            "demo_url": "https://demo.fancywp.com/life-coach/",
+            "pro": "",
+            "resources": {
+                "xml_url": "https://demo.fancywp.com/life-coach/wp-content/uploads/2021/04/lifecoach.WordPress.xml",
+                "json_url": "https://demo.fancywp.com/life-coach/wp-content/uploads/2021/04/lifecoach-elementor.json",
+                "elementor_xml_url": "https://demo.fancywp.com/life-coach/wp-content/uploads/2021/04/lifecoach.WordPress.xml",
+                "elementor_json_url": "https://demo.fancywp.com/life-coach/wp-content/uploads/2021/04/lifecoach-elementor.json",
+                "beaver_builder_xml_url": null,
                 "beaver_builder_json_url": null
             },
             "tags": [],
             "categories": []
-        },
-        "posts": {
-            "life-coach": {
-                "id": 202,
-                "title": "Life Coach",
-                "slug": "life-coach",
-                "desc": "",
-                "excerpt": "",
-                "thumbnail_url": "https://demo.fancywp.com/life-coach/wp-content/uploads/2021/04/life-coach.jpg",
-                "manual_plugins": {
-                    "": null
-                },
-                "demo_url": "https://demo.fancywp.com/life-coach/",
-                "pro": "",
-                "resources": {
-                    "xml_url": null,
-                    "xml_placeholder_url": null,
-                    "json_url": null,
-                    "elementor_xml_url": "https://demo.fancywp.com/life-coach/wp-content/uploads/2021/04/lifecoach.WordPress.xml",
-                    "elementor_json_url": "https://demo.fancywp.com/life-coach/wp-content/uploads/2021/04/lifecoach-elementor.json",
-                    "beaver_builder_xm_url": null,
-                    "beaver_builder_xml_url": null,
-                    "beaver_builder_xml_placeholder_url": null,
-                    "beaver_builder_json_url": null
-                },
-                "tags": [],
-                "categories": []
-            }
         }
+    }
 }
