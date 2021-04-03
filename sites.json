@@ -25,6 +25,7 @@
                 "xml_placeholder_url": null,
                 "json_url": null,
                 "elementor_xml_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282251.xml",
+                "elementor_xml_placeholder_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282251.xml",
                 "elementor_json_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282252.json",
                 "beaver_builder_xm_url": null,
                 "beaver_builder_xml_url": null,
@@ -32,9 +33,8 @@
                 "beaver_builder_json_url": null
             },
             "tags": [],
-            "categories": ["elementor"]
-        }
-    },
+            "categories": []
+        },
         "posts": {
             "starter-blogger": {
                 "id": 206,
@@ -60,7 +60,7 @@
                     "beaver_builder_json_url": null
                 },
                 "tags": [],
-                "categories": ["elementor"]
+                "categories": []
             }
         }
 }
