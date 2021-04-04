@@ -2,12 +2,45 @@
     "total": "2",
     "max_num_pages": 3,
     "paged": 2,
-    "categories": { "elementor": { "slug": "elementor", "name": "Elementor", "id": 2, "count": 5 }, "beaver-builder": { "slug": "beaver-builder", "name": "Beaver Builder", "id": 5, "count": 3 } },
+    "categories": {
+        "elementor": {
+            "slug": "elementor",
+            "name": "Elementor",
+            "id": 2,
+            "count": 5
+        },
+        "beaver-builder": {
+            "slug": "beaver-builder",
+            "name": "Beaver Builder",
+            "id": 5,
+            "count": 3
+        }
+    },
     "tags": {
-        "nonprofit": { "slug": "nonprofit", "name": "Nonprofit", "id": 3, "count": 1 },
-        "business": { "slug": "business", "name": "Business", "id": 4, "count": 3 },
-        "blog": { "slug": "blog", "name": "Blog", "id": 9, "count": 1 },
-        "ecommerce": { "slug": "ecommerce", "name": "eCommerce", "id": 22, "count": 1 }
+        "nonprofit": {
+            "slug": "nonprofit",
+            "name": "Nonprofit",
+            "id": 3,
+            "count": 1
+        },
+        "business": {
+            "slug": "business",
+            "name": "Business",
+            "id": 4,
+            "count": 3
+        },
+        "blog": {
+            "slug": "blog",
+            "name": "Blog",
+            "id": 9,
+            "count": 1
+        },
+        "ecommerce": {
+            "slug": "ecommerce",
+            "name": "eCommerce",
+            "id": 22,
+            "count": 1
+        }
     },
     "posts": {
         "starter-blogger": {
@@ -17,7 +50,9 @@
             "desc": "Build your blogging site with Starter Blogger Templates",
             "excerpt": "",
             "thumbnail_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starter-blogger.jpg",
-            "manual_plugins": { "": null },
+            "manual_plugins": {
+                "": null
+            },
             "demo_url": "https://demo.fancywp.com/blogger/",
             "pro": "",
             "resources": {
@@ -28,8 +63,8 @@
                 "beaver_builder_xml_url": null,
                 "beaver_builder_json_url": null
             },
-            "tags": ["elementor"],
-            "categories": ["starter", "blog"]
+            "tags": [],
+            "categories": ["elementor"]
         },
         "life-coach": {
             "id": 202,
@@ -52,7 +87,30 @@
                 "beaver_builder_json_url": null
             },
             "tags": [],
-            "categories": []
+            "categories": ["elementor"]
+        },
+        "paint-shop": {
+            "id": 203,
+            "title": "Paint SHop",
+            "slug": "paint-shop",
+            "desc": "",
+            "excerpt": "",
+            "thumbnail_url": "https://demo.fancywp.com/print-shop/wp-content/uploads/2021/04/paint-shop.jpg",
+            "manual_plugins": {
+                "": null
+            },
+            "demo_url": "https://demo.fancywp.com/paint-shop/",
+            "pro": "",
+            "resources": {
+                "xml_url": "https://demo.fancywp.com/print-shop/wp-content/uploads/2021/04/printshop-elementor.xml",
+                "json_url": "https://demo.fancywp.com/print-shop/wp-content/uploads/2021/04/printshop-elementor-.json",
+                "elementor_xml_url": "https://demo.fancywp.com/print-shop/wp-content/uploads/2021/04/printshop-elementor.xml",
+                "elementor_json_url": "https://demo.fancywp.com/print-shop/wp-content/uploads/2021/04/printshop-elementor-.json",
+                "beaver_builder_xml_url": null,
+                "beaver_builder_json_url": null
+            },
+            "tags": [],
+            "categories": ["elementor"]
         }
     }
 }
