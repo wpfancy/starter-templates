@@ -55,19 +55,21 @@
                     "slug": "starter-blogger",
                         "desc": "Build your blogging site with Starter Blogger Templates",
                             "excerpt": "",
-                                "thumbnail_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starter-blogger.jpg",
+                                "thumbnail_url": "https://wpcrafty.com/starter-blogger/wp-content/uploads/2021/09/marga-santoso-scaled.jpg",
                                     "manual_plugins": {
                 "": null
             },
             "demo_url": "https://wpcrafty.com/starter-blogger/",
                 "pro": "",
                     "resources": {
-                "xml_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282251.xml",
-                    "json_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282252.json",
-                        "elementor_xml_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282251.xml",
-                            "elementor_json_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282252.json",
-                                "beaver_builder_xml_url": null,
-                                    "beaver_builder_json_url": null
+                "xml_url": "https://wpcrafty.com/starter-blogger/wp-content/uploads/2021/09/starterblogger-no-builders-202109161925.xml",
+                "json_url": "https://wpcrafty.com/starter-blogger/wp-content/uploads/2021/09/starterblogger-no-builders-202109161925.json",
+                "elementor_xml_url": "https://wpcrafty.com/starter-blogger/wp-content/uploads/2021/09/starterblogger-no-builders-202109161925.xml",
+                "elementor_json_url": "https://wpcrafty.com/starter-blogger/wp-content/uploads/2021/09/starterblogger-no-builders-202109161925.json",
+                "gutenberg_xml_url": "https://wpcrafty.com/starter-blogger/wp-content/uploads/2021/09/starterblogger-no-builders-202109161925.xml",
+                "gutenberg_json_url": "https://wpcrafty.com/starter-blogger/wp-content/uploads/2021/09/starterblogger-no-builders-202109161925.json",
+                "beaver_builder_xml_url": null,
+                "beaver_builder_json_url": null
             },
             "tags": [],
                 "categories": ["gutenberg"]
