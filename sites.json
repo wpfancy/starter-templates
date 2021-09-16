@@ -1,116 +1,76 @@
 {
     "total": "2",
-    "max_num_pages": 3,
-    "paged": 2,
-    "categories": {
+        "max_num_pages": 3,
+            "paged": 2,
+                "categories": {
+        "gutenberg": {
+            "slug": "gutenberg",
+                "name": "Gutenberg",
+                    "id": 1,
+                        "count": 2
+        },
         "elementor": {
             "slug": "elementor",
-            "name": "Elementor",
-            "id": 2,
-            "count": 5
+                "name": "Elementor",
+                    "id": 2,
+                        "count": 3
         },
         "beaver-builder": {
             "slug": "beaver-builder",
-            "name": "Beaver Builder",
-            "id": 5,
-            "count": 3
+                "name": "Beaver Builder",
+                    "id": 3,
+                        "count": 4
         }
     },
     "tags": {
         "nonprofit": {
             "slug": "nonprofit",
-            "name": "Nonprofit",
-            "id": 3,
-            "count": 1
+                "name": "Nonprofit",
+                    "id": 4,
+                        "count": 1
         },
         "business": {
             "slug": "business",
-            "name": "Business",
-            "id": 4,
-            "count": 3
+                "name": "Business",
+                    "id": 5,
+                        "count": 3
         },
         "blog": {
             "slug": "blog",
-            "name": "Blog",
-            "id": 9,
-            "count": 1
+                "name": "Blog",
+                    "id": 6,
+                        "count": 1
         },
         "ecommerce": {
             "slug": "ecommerce",
-            "name": "eCommerce",
-            "id": 22,
-            "count": 1
+                "name": "eCommerce",
+                    "id": 7,
+                        "count": 1
         }
     },
     "posts": {
         "starter-blogger": {
             "id": 201,
-            "title": "Starter Blogger",
-            "slug": "starter-blogger",
-            "desc": "Build your blogging site with Starter Blogger Templates",
-            "excerpt": "",
-            "thumbnail_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starter-blogger.jpg",
-            "manual_plugins": {
+                "title": "Starter Blogger",
+                    "slug": "starter-blogger",
+                        "desc": "Build your blogging site with Starter Blogger Templates",
+                            "excerpt": "",
+                                "thumbnail_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starter-blogger.jpg",
+                                    "manual_plugins": {
                 "": null
             },
-            "demo_url": "https://demo.fancywp.com/blogger/",
-            "pro": "",
-            "resources": {
+            "demo_url": "https://wpcrafty.com/starter-blogger/",
+                "pro": "",
+                    "resources": {
                 "xml_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282251.xml",
-                "json_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282252.json",
-                "elementor_xml_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282251.xml",
-                "elementor_json_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282252.json",
-                "beaver_builder_xml_url": null,
-                "beaver_builder_json_url": null
+                    "json_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282252.json",
+                        "elementor_xml_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282251.xml",
+                            "elementor_json_url": "https://demo.fancywp.com/blogger/wp-content/uploads/2021/03/starterblogger-2-builders-202103282252.json",
+                                "beaver_builder_xml_url": null,
+                                    "beaver_builder_json_url": null
             },
             "tags": [],
-            "categories": ["elementor"]
-        },
-        "life-coach": {
-            "id": 202,
-            "title": "Life Coach",
-            "slug": "life-coach",
-            "desc": "",
-            "excerpt": "",
-            "thumbnail_url": "https://demo.fancywp.com/life-coach/wp-content/uploads/2021/04/life-coach.jpg",
-            "manual_plugins": {
-                "": null
-            },
-            "demo_url": "https://demo.fancywp.com/life-coach/",
-            "pro": "",
-            "resources": {
-                "xml_url": "https://demo.fancywp.com/life-coach/wp-content/uploads/2021/04/lifecoach.WordPress.xml",
-                "json_url": "https://demo.fancywp.com/life-coach/wp-content/uploads/2021/04/lifecoach-elementor.json",
-                "elementor_xml_url": "https://demo.fancywp.com/life-coach/wp-content/uploads/2021/04/lifecoach.WordPress.xml",
-                "elementor_json_url": "https://demo.fancywp.com/life-coach/wp-content/uploads/2021/04/lifecoach-elementor.json",
-                "beaver_builder_xml_url": null,
-                "beaver_builder_json_url": null
-            },
-            "tags": [],
-            "categories": ["elementor"]
-        },
-        "paint-shop": {
-            "id": 203,
-            "title": "Paint SHop",
-            "slug": "paint-shop",
-            "desc": "",
-            "excerpt": "",
-            "thumbnail_url": "https://demo.fancywp.com/print-shop/wp-content/uploads/2021/04/paint-shop.jpg",
-            "manual_plugins": {
-                "": null
-            },
-            "demo_url": "https://demo.fancywp.com/paint-shop/",
-            "pro": "",
-            "resources": {
-                "xml_url": "https://demo.fancywp.com/print-shop/wp-content/uploads/2021/04/printshop-elementor.xml",
-                "json_url": "https://demo.fancywp.com/print-shop/wp-content/uploads/2021/04/printshop-elementor-.json",
-                "elementor_xml_url": "https://demo.fancywp.com/print-shop/wp-content/uploads/2021/04/printshop-elementor.xml",
-                "elementor_json_url": "https://demo.fancywp.com/print-shop/wp-content/uploads/2021/04/printshop-elementor-.json",
-                "beaver_builder_xml_url": null,
-                "beaver_builder_json_url": null
-            },
-            "tags": [],
-            "categories": ["elementor"]
+                "categories": ["gutenberg"]
         }
     }
 }
